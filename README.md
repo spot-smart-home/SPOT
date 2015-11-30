@@ -1,1 +1,1 @@
-# SPOT SPOT smart-home solution
+# SPOT smart-home solution
