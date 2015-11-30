@@ -1,1 +1,1 @@
-# SPOT smart-home soloution
+# SPOT smart-home framework
